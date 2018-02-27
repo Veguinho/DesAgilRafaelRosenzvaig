@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args)throws Exception {
 		System.out.println("Projeto 1");
 		
-		FileReader fr= new FileReader("/Users/Veguinho/Desktop/Insper/Comp 3 semestre/Desenvolvimento Colaborativo Ágil/Projeto1/src/main/java/br/pro/hashi/ensino/desagil/tequilada/text.txt");    
+		FileReader fr= new FileReader("/Users/Veguinho/Desktop/Insper/Comp 3 semestre/Desenvolvimento Colaborativo Ágil/Projeto1/RafaelRosenzvaig_Projeto1/src/main/java/br/pro/hashi/ensino/desagil/text.txt");    
         BufferedReader br = new BufferedReader(fr);    
         
         int letra;
